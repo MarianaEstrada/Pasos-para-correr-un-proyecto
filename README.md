@@ -1,1 +1,1 @@
-# Pasos-para-correr-un-proyecto
+# Pasos para correr un proyecto
